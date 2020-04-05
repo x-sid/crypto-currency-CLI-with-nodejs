@@ -12,7 +12,7 @@ program
   .action(key.show)
 
 program
-  .command("Remove")
+  .command("remove")
   .description("Remove API key")
   .action(key.remove)
 
