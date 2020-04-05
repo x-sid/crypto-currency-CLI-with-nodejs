@@ -1,0 +1,27 @@
+{
+  "name": "sidcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/sidCoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-sid/crypto-currency-CLI-with-nodejs.git"
+  },
+  "author": "x-sid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x-sid/crypto-currency-CLI-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/x-sid/crypto-currency-CLI-with-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.1.0"
+  }
+}
